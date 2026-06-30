@@ -1,0 +1,4 @@
+channel,gene,compounds,actives,inactives,active_pct
+hERG,KCNH2,12101,6057,6044,50.1
+Nav1.5,SCN5A,2830,231,2599,8.2
+Cav1.2,CACNA1C,463,32,431,6.9

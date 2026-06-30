@@ -1,0 +1,5 @@
+channel,split,test_n,test_actives,roc_auc,roc_auc_ci_low,roc_auc_ci_high,mcc,mcc_ci_low,mcc_ci_high
+Nav1.5,Random,708,58,0.952,0.914,0.975,0.597,0.476,0.712
+Nav1.5,Scaffold,781,78,0.945,0.920,0.965,0.591,0.491,0.680
+Cav1.2,Random,116,8,0.922,0.782,0.996,0.658,0.277,0.900
+Cav1.2,Scaffold,116,8,0.921,0.697,1.000,0.627,0.193,0.909
